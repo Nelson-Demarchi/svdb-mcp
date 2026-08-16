@@ -4,3 +4,4 @@ DataBase/
 ollama-models/
 ollama-env.bat
 __pycache__/
+.dev/
