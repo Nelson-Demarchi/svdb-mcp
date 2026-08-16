@@ -1,0 +1,6 @@
+Data/*
+!Data/example.md
+DataBase/
+ollama-models/
+ollama-env.bat
+__pycache__/
